@@ -1,22 +1,27 @@
-hey there !
-I'm Nirmata, a software engineer, builder, and competitive hacker who turns ideas into reality — in 5 languages
-I design and build whatever I can imagine. If it can be coded, I'll ship it.
+hey there ! I AM SHAHID KATHAT ( nirmata )
+I’m Shahid Kathat, known online by my codename Nirmata — a developer who started coding at the age of 14.
+Over the years, I’ve participated in 34 hackathons and won 7 major hackathons, turning ideas into real projects.
+I ranked 178th in Meta PyTorch, competing with developers from around the world.
+I work with 5 programming languages and have advanced skills in Python and Java.
+I enjoy building complex, creative, and sometimes completely crazy projects just to see what’s possible.
 
-Achievements 🏆
-- 🥇 National Winner in IoT* — competed and conquered at the national level
-- 🎤 Host — CII Tech Next Summit* — led one of the most prestigious tech summits on the circuit
-- 🥉 DigiFestX* — podium finish on a competitive national stage
-- 🔥 Meta PyTorch Contributor #178* — recognized in the global open source community
-- ⚔️ 4 Hackathon Wins* out of *34 participations* — battle-tested, consistently competitive
 
-Fun Facts:
-- 🧠 I think in 5 programming languages
-- 🌐 I've competed, hosted, and contributed — not just a builder, but a leader
-- ☕ Fueled by late nights and ambition
-- 🎯 Hobbies: hackathons, building things, open source
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hEPwE4PZv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shahidkathat.ig) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahid-kathat-7454653b0/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shahidkathatx) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahidkathatwork@gmail.com) 
 
-What I'm about:
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Framework7](https://img.shields.io/badge/framework7-%23EE350F.svg?style=for-the-badge&logo=framework7&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MaxCompute](https://img.shields.io/badge/MaxCompute-%23FF6701?style=for-the-badge&logo=alibabacloud&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nirmatacode&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nirmatacode&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nirmatacode&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I don't just write code — I compete with it, speak about it, and contribute to frameworks used by millions. My stack runs deep across languages and domains. Whether it's IoT hardware, AI tooling, or full-stack projects — I show up and deliver.
 
-34 hackathons. 9 wins. Still going
+🚀 My Coding Journey
+I’m Shahid Kathat, known online as Nirmata. My journey into coding started at the age of 14, when curiosity turned into a passion for building things. Over the years, I’ve learned 5 programming languages, with Python and Java being my strongest, and I’ve participated in 34 hackathons, winning 7 major hackathons along the way.
+
+One of my most memorable experiences was participating in a hackathon in Chennai, where I was the youngest participant in the competition. Being surrounded by experienced developers was intimidating at first, but it also motivated me to prove that age doesn’t define what you can build. I spent the event learning, coding, solving problems, and collaborating with others—and walked away with an experience that taught me to believe in my abilities.
+
+Another proud milestone was achieving #178 in Meta PyTorch. I love building complex, creative, and sometimes completely crazy projects just to see what’s possible. For me, coding isn’t just about writing code—it’s about turning ideas into reality, challenging myself, and constantly learning. My journey started at 14, but there’s still a lot more to build. 🚀
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
