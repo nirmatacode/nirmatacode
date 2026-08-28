@@ -1,4 +1,3 @@
-hey there ! I AM SHAHID KATHAT ( nirmata )
 I’m Shahid Kathat, known online by my codename Nirmata — a developer who started coding at the age of 14.
 Over the years, I’ve participated in 34 hackathons and won 7 major hackathons, turning ideas into real projects.
 I ranked 178th in Meta PyTorch, competing with developers from around the world.
