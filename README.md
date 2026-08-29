@@ -4,6 +4,9 @@ I ranked 178th in Meta PyTorch, competing with developers from around the world.
 I work with 5 programming languages and have advanced skills in Python and Java.
 I enjoy building complex, creative, and sometimes completely crazy projects just to see what’s possible.
 
+TOP skill 
+I can make it happen.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hEPwE4PZv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shahidkathatig?igsi=ZGZkbG04N3k5YWhr)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahidkathatwork@gmail.com) 
