@@ -5,6 +5,7 @@ I work with 5 programming languages and have advanced skills in Python and Java.
 I enjoy building complex, creative, and sometimes completely crazy projects just to see what’s possible.
 
 TOP skill 
+
 I can make it happen.
 
 
